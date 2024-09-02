@@ -13,6 +13,7 @@
     <p>Добро пожаловать на ImperiumCraft. Наш сайт скоро будет доступен.</p>
     <p class="datetime">Текущая дата и время: <?php echo date('d.m.Y H:i:s'); ?></p>
     <p class="php-status"><?php echo "PHP успешно работает на этом сервере."; ?></p>
+    <p><a href="./public/info.php">PHPINFO<a></p>
 </div>
 </body>
 </html>
